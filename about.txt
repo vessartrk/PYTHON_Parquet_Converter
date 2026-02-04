@@ -1,0 +1,9 @@
+Created by Michael Vessa
+vessartrk@gmail.com
+07511 720 127
+
+Purpose:
+
+- Program is able to convert excel files (single or bulks) into parquet files
+- User is able to select destination for each file separately
+- Once converted, user can immediately open file from the list
